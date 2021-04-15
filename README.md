@@ -3,7 +3,7 @@ A password generator created with JavaScript
 ## Name
 
 A portfolio to showcase my recent work. <br>
-https://drowekorte.github.io/JS-Password-Generator/index.html
+https://drowekorte.github.io/JS-Password/index.html
 
 <br>
 
