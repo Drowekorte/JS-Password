@@ -9,12 +9,12 @@ https://drowekorte.github.io/JS-Password-Generator/index.html
 
 ## Description
 
-Password generators are an important part of online security. Choosing a strong passowrd and changing it often will give you the most protection. This one was built using prompts and confirms for the user to select their prefered length, then choose uppercase, lowercase, numbers, and/or special characters. A random password is generated based on their criteria. 
+Password generators are an important part of online security. Choosing a strong password and changing it often will give you the most protection. This one was built using prompts and confirms for the user to select their preferred length, then choose uppercase, lowercase, numbers, and/or special characters. A random password is generated based on their criteria. 
 * HTML
 * CSS
 * JavaScript
 <br>
-![alt text](Assets/JS_Pass_Gen1.jpg "Password Generator Demo")
+![alt text](assets/JS_Pass_Gen1.jpg "Password Generator Demo")
 
 <br>
 
